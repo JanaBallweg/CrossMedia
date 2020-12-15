@@ -8,6 +8,7 @@
           wohlgeformtes XML-Dokument
           
 <title>ich bin eine xml datei </title>
+<versuch1>ich habe was geändert</versuch1>
     </Text>
 </WurzelElement>
 <!-- Ende des XML-Dokumentes -->
