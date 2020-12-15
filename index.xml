@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE  WurzelElement SYSTEM "index.dtd">
+<!-- Unser erstes XML-Dokument. -->
+
+<WurzelElement>
+    <Inhalt>Erstes XML-Dokument</Inhalt>
+    <Text>Das erste Beispiel für ein
+          wohlgeformtes XML-Dokument
+          
+<title>ich bin eine xml datei </title>
+    </Text>
+</WurzelElement>
+<!-- Ende des XML-Dokumentes -->
+
+
+
+
