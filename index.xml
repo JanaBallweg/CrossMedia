@@ -8,7 +8,11 @@
           wohlgeformtes XML-Dokument
           
 <title>ich bin eine xml datei </title>
+<<<<<<< HEAD
 <versuch1>ich habe was geändert</versuch1>
+=======
+<title2> lea </title2>
+>>>>>>> master
     </Text>
 </WurzelElement>
 <!-- Ende des XML-Dokumentes -->
