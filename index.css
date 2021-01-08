@@ -1,0 +1,98 @@
+body {
+	font-size: 16 pt;
+	background-color: white;
+    font-family: 'Roboto', sans-serif;
+	margin: 0 auto;
+	width: 80%;
+
+    }
+/*Überschriften Gestaltung*/	
+h1 {
+	font-family: 'Roboto', sans-serif;
+    font-size: 28pt;
+	font-weight: bold;
+	color: #B9C6C3;
+    }
+	
+h2 {
+	font-family: 'Roboto', sans-serif;
+    font-size: 22pt;
+	font-weight: bold;
+	color: #B9C6C3;
+    }
+
+h3 {
+	font-family: 'Roboto', sans-serif;
+    font-size: 20pt;
+	font-weight: bold;
+	color: #B9C6C3;
+    }
+
+	
+   /*Tabellengestaltung*/
+
+
+table.klein {
+	border:30px;
+    width: 100%;
+    height: 3em;
+	margin: 0 auto;
+	border-collapse: separate;
+	background-color:#AFC5C7;
+	text-align: center;
+	font-size: 14pt;
+    }
+
+td.klein{
+	border: 1px solid;
+	border-collapse: separate;
+	width: 33%;
+	text-align: center;
+    }
+
+/*Link-Gestaltung*/	
+a:link {
+	font-weight: bold;
+	color: #ffffff;
+	text-decoration: none;
+    }
+a:visited {
+	font-weight: bold;
+	color: #ffffff;
+	text-decoration: none;
+    }
+a:hover {
+	font-weight: bold;
+	color: #FF7159;
+	text-decoration: none;
+    }
+	
+/*Für den weißen Vordergrund*/	
+span {
+	background: white;
+	border: 5px solid;
+	display: inline-block;
+	margin: 0em;
+	outline: 10px solid #A9F5F2;
+}
+
+
+/*Horizontale Linie*/	
+.hr1 {
+color: #B9C6C3;
+width:80%;
+}
+
+.hr2 {
+color: #B9C6C3;
+}
+
+/*Normale Formatierung mit scharz gefülltem Kreis*/
+ul.second{
+	list-style: disc;
+}
+
+.container{
+    margin-left: 5%;
+    margin-right: 5%
+}
