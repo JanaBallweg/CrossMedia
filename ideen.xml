@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DIY> <anleitung art="gutschein" id="i1"><title>Gutscheine verpacken - einfache Idee </title>
+<u-zwischen>Für die Klappkarte zum Gutschein verpacken benötigt ihr:</u-zwischen>
+<Materialien><zutat><menge>1</menge>	<name>Gutschein A4</name></Materialien>
+<Material><menge>1</menge>	<name>Papierkarton A3</name></Material>
+<Material><menge>1</menge>	<name>Schere</name></Material>
+<Material><menge>1</menge>	<name>Klebestift</name></zutMaterialat>
+<Material><menge>1</menge>	<name>Lineal</name></Material>
+</zutaten><u-zwischen>Beschreibung</u-zwischen>
+<beschreibung><schritt>1. Legt euch den Papierkarton zurecht und übertragt die Form mit dem Lineal und dem Bleistift auf den Papierkarton.</schritt>
+<schritt>2. Schneidet anschließend die Grundform der Klappkarte aus und beginnt diese zu falten. </schritt>
+<schritt>3. Die Seitenteile für die Lasche verklebt ihr mit dem Klebestift und fixiert diese an der Grundform.</schritt>
+<schritt>4. Anschließend faltet ihr den Gutschein zusammen, sodass er in die Lasche der Klappkarte passt.</schritt>
+<schritt>5. Verschließt die Karte mithilfe von etwas Garn und Klebeband. Wenn ihr mögt, könnt ihr das Garn noch mit einem kleinen Papier-Geschenkanhänger dekorieren und eine Kleien Botschaft für den Beschenkten auf das Papier schreiben oder stempeln. </schritt>
+</beschreibung><bild-container><bild href="#Bilder/gutschein2.png"/>
+</DIY>
