@@ -28,6 +28,14 @@ h3 {
 	color: #B9C6C3;
     }
 
+
+p {
+	font-family: 'Roboto', sans-serif;
+    font-size: 15pt;
+	font-weight: regular;
+	color: #000;
+    }
+
 	
    /*Tabellengestaltung*/
 
