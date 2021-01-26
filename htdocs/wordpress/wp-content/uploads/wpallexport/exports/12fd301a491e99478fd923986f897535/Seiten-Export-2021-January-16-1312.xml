@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<post>
+		<ID>7</ID>
+		<Title>DIY-Blog</Title>
+		<Content><![CDATA[<!-- wp:heading {"level":3} -->
+<h3><strong>Wir stellen uns vor: </strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":6} -->
+<h6>Wir sind cool.</h6>
+<!-- /wp:heading -->]]></Content>
+		<Excerpt></Excerpt>
+		<Date>2021-01-16</Date>
+		<PostType>page</PostType>
+		<Permalink>http://localhost:8888/wordpress/diy-blog/</Permalink>
+		<ImageURL>http://localhost:8888/wordpress/wp-content/uploads/2021/01/gutschein2.jpg</ImageURL>
+		<ImageTitle>gutschein2</ImageTitle>
+		<ImageCaption></ImageCaption>
+		<ImageDescription></ImageDescription>
+		<ImageAltText></ImageAltText>
+		<ImageFeatured></ImageFeatured>
+		<AttachmentURL></AttachmentURL>
+		<_wp_page_template></_wp_page_template>
+		<_wp_trash_meta_status></_wp_trash_meta_status>
+		<_wp_trash_meta_time></_wp_trash_meta_time>
+		<_wp_desired_post_slug></_wp_desired_post_slug>
+		<Status>publish</Status>
+		<AuthorID>1</AuthorID>
+		<AuthorUsername>Shirin</AuthorUsername>
+		<AuthorEmail>shirin2812@gmx.de</AuthorEmail>
+		<AuthorFirstName></AuthorFirstName>
+		<AuthorLastName></AuthorLastName>
+		<Slug>diy-blog</Slug>
+		<Format></Format>
+		<Template></Template>
+		<Parent>0</Parent>
+		<ParentSlug>0</ParentSlug>
+		<Order>0</Order>
+		<CommentStatus>closed</CommentStatus>
+		<PingStatus>closed</PingStatus>
+		<PostModifiedDate>2021-01-16</PostModifiedDate>
+	</post>
+</data>

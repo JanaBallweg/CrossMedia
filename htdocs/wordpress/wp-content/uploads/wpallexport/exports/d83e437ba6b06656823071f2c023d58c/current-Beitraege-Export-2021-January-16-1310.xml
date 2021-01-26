@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<post>
+		<ID>11</ID>
+		<Title>Gutscheine selber verpacken</Title>
+		<Content><![CDATA[<figure class="wp-block-gallery columns-1 is-cropped">
+<ul class="blocks-gallery-grid">
+ 	<li class="blocks-gallery-item">
+<figure><img src="http://localhost:8888/wordpress/wp-content/uploads/2021/01/gutschein2-1-1024x683.jpg" alt="" data-id="12" data-full-url="http://localhost:8888/wordpress/wp-content/uploads/2021/01/gutschein2-1.jpg" data-link="http://localhost:8888/wordpress/?attachment_id=12" class="wp-image-12"></figure>
+</li>
+</ul>
+</figure>
+<h3 class="alignfull has-text-align-center"><strong><span style="color:#77ae9a" class="has-inline-color">Für die Klappkarte zum Gutschein verpacken benötigt ihr:</span></strong></h3>
+<ul>
+ 	<li>Gutschein A4</li>
+ 	<li>Papierkarton A3</li>
+ 	<li>Schere</li>
+ 	<li>Garn</li>
+ 	<li>Klebestift</li>
+ 	<li>Bleistift</li>
+ 	<li>Lineal</li>
+</ul>
+<h3 class="alignfull has-text-align-center"><strong><span style="color:#77ae9a" class="has-inline-color">Anleitung:</span></strong></h3>
+<ol>
+ 	<li>Legt euch den Papierkarton zurecht und übertragt die Form mit dem Lineal und dem Bleistift auf den Papierkarton.</li>
+ 	<li>Schneidet anschließend die Grundform der Klappkarte aus und beginnt diese zu falten.</li>
+ 	<li>Die Seitenteile für die Lasche verklebt ihr mit dem Klebestift und fixiert diese an der Grundform.</li>
+ 	<li>Anschließend faltet ihr den Gutschein zusammen, sodass er in die Lasche der Klappkarte passt.</li>
+ 	<li>Verschließt die Karte mithilfe von etwas Garn und Klebeband. Wenn ihr mögt, könnt ihr das Garn noch mit einem kleinen Papier-Geschenkanhänger dekorieren und eine Kleien Botschaft für den Beschenkten auf das Papier schreiben oder stempeln.</li>
+ 	<li>Das hier ist ein Test.</li>
+</ol>]]></Content>
+		<Excerpt></Excerpt>
+		<Date>2021-01-16</Date>
+		<PostType>post</PostType>
+		<Permalink>http://localhost:8888/wordpress/2021/01/16/11/</Permalink>
+		<ImageURL>http://localhost:8888/wordpress/wp-content/uploads/2021/01/gutschein2-1.jpg</ImageURL>
+		<ImageTitle>gutschein2-1</ImageTitle>
+		<ImageCaption></ImageCaption>
+		<ImageDescription></ImageDescription>
+		<ImageAltText></ImageAltText>
+		<ImageFeatured></ImageFeatured>
+		<AttachmentURL></AttachmentURL>
+		<Kategorien>Allgemein</Kategorien>
+		<Schlagwrter></Schlagwrter>
+		<_wp_old_slug>gutscheine-verpacken</_wp_old_slug>
+		<_encloseme>1</_encloseme>
+		<_wp_trash_meta_status></_wp_trash_meta_status>
+		<_wp_trash_meta_time></_wp_trash_meta_time>
+		<_wp_desired_post_slug></_wp_desired_post_slug>
+		<_wp_trash_meta_comments_status></_wp_trash_meta_comments_status>
+		<Status>publish</Status>
+		<AuthorID>1</AuthorID>
+		<AuthorUsername>Shirin</AuthorUsername>
+		<AuthorEmail>shirin2812@gmx.de</AuthorEmail>
+		<AuthorFirstName></AuthorFirstName>
+		<AuthorLastName></AuthorLastName>
+		<Slug>11</Slug>
+		<Format></Format>
+		<Template></Template>
+		<Parent>0</Parent>
+		<ParentSlug>0</ParentSlug>
+		<Order>0</Order>
+		<CommentStatus>open</CommentStatus>
+		<PingStatus>open</PingStatus>
+		<PostModifiedDate>2021-01-16</PostModifiedDate>
+	</post>
+</data>

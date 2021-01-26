@@ -1,0 +1,20 @@
+ID,Title,Content,Excerpt,Date,"Post Type",Permalink,"Image URL","Image Title","Image Caption","Image Description","Image Alt Text","Image Featured","Attachment URL",Kategorien,Schlagwörter,Status,"Author ID","Author Username","Author Email","Author First Name","Author Last Name",Slug,Format,Template,Parent,"Parent Slug",Order,"Comment Status","Ping Status","Post Modified Date"
+11,"Gutscheine verpacken","<!-- wp:gallery {""ids"":[12],""linkTo"":""none""} -->
+<figure class=""wp-block-gallery columns-1 is-cropped""><ul class=""blocks-gallery-grid""><li class=""blocks-gallery-item""><figure><img src=""http://localhost:8888/wordpress/wp-content/uploads/2021/01/gutschein2-1-1024x683.jpg"" alt="""" data-id=""12"" data-full-url=""http://localhost:8888/wordpress/wp-content/uploads/2021/01/gutschein2-1.jpg"" data-link=""http://localhost:8888/wordpress/?attachment_id=12"" class=""wp-image-12""/></figure></li></ul></figure>
+<!-- /wp:gallery -->
+
+<!-- wp:heading {""textAlign"":""center"",""level"":3,""align"":""full""} -->
+<h3 class=""alignfull has-text-align-center""><strong>Für die Klappkarte zum Gutschein verpacken benötigt ihr:</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Gutschein A4</li><li>Papierkarton A3</li><li>Schere</li><li>Garn</li><li>Klebestift</li><li>Bleistift</li><li>Lineal</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {""textAlign"":""center"",""level"":3,""align"":""full""} -->
+<h3 class=""alignfull has-text-align-center""><strong>Anleitung:</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:list {""ordered"":true} -->
+<ol><li>Legt euch den Papierkarton zurecht und übertragt die Form mit dem Lineal und dem Bleistift auf den Papierkarton.</li><li>Schneidet anschließend die Grundform der Klappkarte aus und beginnt diese zu falten.</li><li>Die Seitenteile für die Lasche verklebt ihr mit dem Klebestift und fixiert diese an der Grundform.</li><li>Anschließend faltet ihr den Gutschein zusammen, sodass er in die Lasche der Klappkarte passt.</li><li>Verschließt die Karte mithilfe von etwas Garn und Klebeband. Wenn ihr mögt, könnt ihr das Garn noch mit einem kleinen Papier-Geschenkanhänger dekorieren und eine Kleien Botschaft für den Beschenkten auf das Papier schreiben oder stempeln.</li><li>Das hier ist ein Test.</li></ol>
+<!-- /wp:list -->",,2021-01-16,post,http://localhost:8888/wordpress/2021/01/16/gutscheine-verpacken/,http://localhost:8888/wordpress/wp-content/uploads/2021/01/gutschein2-1.jpg,gutschein2-1,,,,,,Allgemein,,publish,1,Shirin,shirin2812@gmx.de,,,gutscheine-verpacken,,,0,0,0,open,open,2021-01-16
